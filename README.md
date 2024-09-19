@@ -19,3 +19,15 @@ Hello! I'm Eren, I'm a Developer. Welcome to my GitHub profile!
 
 ---
 
+
+            @keyframes currstreak {
+                0% { font-size: 3px; opacity: 0.2; }
+                80% { font-size: 34px; opacity: 1; }
+                100% { font-size: 28px; opacity: 1; }
+            }
+            @keyframes fadein {
+                0% { opacity: 0; }
+                100% { opacity: 1; }
+            }
+        
+
