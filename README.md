@@ -19,3 +19,4 @@ Hello! I'm Eren, I'm a Developer. Welcome to my GitHub profile!
 
 ---
 
+![Example Image](https://www.niobehosting.com/blog/wp-content/uploads/html-kodlama-nasil-ogrenilir-840x400.jpg)
