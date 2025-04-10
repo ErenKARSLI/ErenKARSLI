@@ -19,78 +19,12 @@ Hello! I'm Eren, I'm a Developer. Welcome to my GitHub profile!
 
 ---
 
-![HTML_CSS](http://127.0.0.1:5500/index.html)
+Bu projede HTML, CSS ve JavaScript kullanarak interaktif bir teklif kartı oluşturdum.  
+Canlı demo ve kaynak kod aşağıdadır:
 
-![HTML](<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div class="container">
-      <div class="offer">
-        <h2 class="offer__header">Special Offer</h2>
-        <p class="offer__desc">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        </p>
-        <button class="offer__btn">Claim offer</button>
-      </div>
-    </div>
-    <script src="script.js"></script>
-  </body>
-</html>)
+🔗 [GitHub Repository](https://github.com/erenkarsli/html-css-js-offer-card)  
+🌐 [Canlı Demo (GitHub Pages)](https://erenkarsli.github.io/html-css-js-offer-card/)
 
-![CSS](* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
+![Proje Görseli](https://github.com/erenkarsli/html-css-js-offer-card/blob/main/preview.png)
 
-body {
-  background-color: #111;
-  font-family: sans-serif;
-}
-
-.container {
-  position: relative;
-  width: 100%;
-  height: 100vh;
-}
-
-.offer {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  background: #fff;
-  padding: 2rem;
-  border-radius: 1rem;
-}
-
-.offer__header {
-  margin-bottom: 1rem;
-}
-
-.offer__desc {
-  margin-bottom: 1rem;
-}
-)
-![JavaScript](const button = document.querySelector(".offer__btn");
-const header = document.querySelector(".offer__header");
-const desc = document.querySelector(".offer__desc");
-
-const texts = [
-  "Limited Time Deal!",
-  "Hurry up! Only today!",
-  "Don't miss out!",
-];
-
-button.addEventListener("click", () => {
-  const randomIndex = Math.floor(Math.random() * texts.length);
-  header.textContent = texts[randomIndex];
-});
-)
-
+---
