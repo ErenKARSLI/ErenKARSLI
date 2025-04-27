@@ -21,4 +21,6 @@ Hello! I'm Eren, I'm a Developer. Welcome to my GitHub profile!
 
 # Snake Game 🎮
 
+
+**Canlı demo:**  
 https://erenkarsli.github.io/snake-game/
