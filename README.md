@@ -20,13 +20,16 @@ Hello! I'm Eren, I'm a Developer. Welcome to my GitHub profile!
 ---
 ---
 
-## 🎮 Play the Snake Game
+---
 
-Click the badge below to jump straight into the live demo:
+## 🐍 Snake Game Demo
 
 <p align="center">
   <a href="https://erenkarsli.github.io/snake-game/">
-    <img src="https://img.shields.io/badge/Play%20Snake-%20HERE-61DAFB?style=for-the-badge&logo=javascript" 
-         alt="Play Snake Demo"/>
+    <img 
+      src="https://raw.githubusercontent.com/ErenKARSLI/snake-game/main/assets/demo.gif" 
+      alt="Snake Game Preview" 
+      width="600"
+    />
   </a>
 </p>
