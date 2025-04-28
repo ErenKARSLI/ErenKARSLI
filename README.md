@@ -19,8 +19,7 @@ Hello! I'm Eren, I'm a Developer. Welcome to my GitHub profile!
 
 ---
 
-# Snake Game 🎮
 
+## 🎮 Play Snake  
+[![Play Snake](https://img.shields.io/badge/Play%20Snake-%20HERE-61DAFB?style=for-the-badge&logo=javascript)](https://erenkarsli.github.io/snake-game/)
 
-**Canlı demo:**  
-https://erenkarsli.github.io/snake-game/
