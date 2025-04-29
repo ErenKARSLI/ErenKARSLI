@@ -18,18 +18,3 @@ Hello! I'm Eren, I'm a Developer. Welcome to my GitHub profile!
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
----
-
----
-
-## 🐍 Snake Game Demo
-
-<p align="center">
-  <a href="https://erenkarsli.github.io/snake-game/">
-    <img 
-      src="https://raw.githubusercontent.com/ErenKARSLI/snake-game/main/assets/demo.gif" 
-      alt="Snake Game Preview" 
-      width="600"
-    />
-  </a>
-</p>
